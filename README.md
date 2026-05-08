@@ -1,1 +1,1 @@
-https://github.com/Dmitry9173/posmotri-v-okno-ad#
+https://github.com/Dmitry9173/posmotri-v-okno-ad
